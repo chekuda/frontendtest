@@ -1,0 +1,52 @@
+body{
+	font-family: Arial;
+}
+#main-content{
+	display: block;
+	margin: 0 auto;
+  text-align: center;
+	width: 1100px;
+}
+.circle{
+	display: inline-block;
+	width: 315px;
+}
+.device{
+	margin: 0 auto;
+	width: 90%;
+}
+.device *{
+	display: inline-block;
+	width: 50%;
+	font-weight: bold;
+}
+.feature{
+	display: inline-block;
+	padding-right: 10px;
+}
+.leftDevice{
+	text-align: left;
+}
+.numbers{
+	border-bottom: 1px solid gray;
+  color: gray;
+	display: block;
+	padding-bottom: 5px;
+  padding-top: 5px;
+	width: 100%;
+}
+.percentage{
+	font-weight: normal;
+	width: 30%;
+}
+.quantity{
+  color: #bdbbbb;
+	font-weight: normal;
+	width: 60%;
+}
+.rightDevice{
+	text-align: right;
+}
+.rightDevice .percentage{
+	text-align: center;
+}
