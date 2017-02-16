@@ -14,5 +14,5 @@ In order to start with this project please follow the steps below
 Please bear in mind the test has been develop with Karma and jasmine.
 Also the test will run in Chrome. For this you have two options
 
-  1a - npm test
-  1b - npm watch
+  1 - (A) npm test
+  1 - (B) npm watch
